@@ -1,2 +1,2 @@
 # To jest README projektu
-Stanowi też stronę główną dla **GitHub Pages**
+Możemy tu krótko opisać nasz projekt, albo nawet zamieścić całą dokumentację.
