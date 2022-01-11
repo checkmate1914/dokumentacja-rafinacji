@@ -1,8 +1,10 @@
 Witamy w dokumentacji rafinacji!
 ===================================
 
-Tutaj mogłaby pojawić się jakaś treść ale nie chce mi się pisać :-(
+Tutaj mogłaby pojawić się jakaś treść :-(
+
 Read the Docs korzysta z języka reStructuredText -> .. _Więcej tutaj: https://pl.wikipedia.org/wiki/ReStructuredText
+
 - jest
 - on
 - całkiem
