@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
+Witamy w dokumentacji rafinacji!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Tutaj mogłaby pojawić się jakaś treść ale nie chce mi się pisać :-(
+Read the Docs korzysta z języka reStructuredText -> .. _Więcej tutaj: https://pl.wikipedia.org/wiki/ReStructuredText
+- jest
+- on
+- całkiem
+- podobny
+- do
+- markdown
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Ta notatka wskazuje na coś ciekawego.
 
-Contents
+Zawartość dokumentacji
 --------
 
 .. toctree::
 
-   usage
-   api
+   Usage
+   API
